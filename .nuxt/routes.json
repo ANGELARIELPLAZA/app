@@ -1,0 +1,65 @@
+[
+  {
+    "name": "alarms",
+    "path": "/alarms",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\alarms.vue",
+    "chunkName": "pages/alarms",
+    "_name": "_1bcc4bef"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_6a387612"
+  },
+  {
+    "name": "devices",
+    "path": "/devices",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\devices.vue",
+    "chunkName": "pages/devices",
+    "_name": "_68359d00"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_e8b61668"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_4f746090"
+  },
+  {
+    "name": "templates",
+    "path": "/templates",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\templates.vue",
+    "chunkName": "pages/templates",
+    "_name": "_2a3e79c8"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_604b997f"
+  },
+  {
+    "name": "GeneralViews-NotFoundPage",
+    "path": "/GeneralViews/NotFoundPage",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_e1e3bd1e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Angel\\\\Desktop\\\\SIRIUS VALUE\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7c055c96"
+  }
+]

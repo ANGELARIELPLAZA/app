@@ -1,0 +1,296 @@
+{
+  "Badge": {
+    "description": "Auto imported from components/Badge.vue"
+  },
+  "LazyBadge": {
+    "description": "Auto imported from components/Badge.vue"
+  },
+  "BaseAlert": {
+    "description": "Auto imported from components/BaseAlert.vue"
+  },
+  "LazyBaseAlert": {
+    "description": "Auto imported from components/BaseAlert.vue"
+  },
+  "BaseButton": {
+    "description": "Auto imported from components/BaseButton.vue"
+  },
+  "LazyBaseButton": {
+    "description": "Auto imported from components/BaseButton.vue"
+  },
+  "BaseDropdown": {
+    "description": "Auto imported from components/BaseDropdown.vue"
+  },
+  "LazyBaseDropdown": {
+    "description": "Auto imported from components/BaseDropdown.vue"
+  },
+  "BasePagination": {
+    "description": "Auto imported from components/BasePagination.vue"
+  },
+  "LazyBasePagination": {
+    "description": "Auto imported from components/BasePagination.vue"
+  },
+  "BaseProgress": {
+    "description": "Auto imported from components/BaseProgress.vue"
+  },
+  "LazyBaseProgress": {
+    "description": "Auto imported from components/BaseProgress.vue"
+  },
+  "BaseSwitch": {
+    "description": "Auto imported from components/BaseSwitch.vue"
+  },
+  "LazyBaseSwitch": {
+    "description": "Auto imported from components/BaseSwitch.vue"
+  },
+  "BaseTable": {
+    "description": "Auto imported from components/BaseTable.vue"
+  },
+  "LazyBaseTable": {
+    "description": "Auto imported from components/BaseTable.vue"
+  },
+  "CloseButton": {
+    "description": "Auto imported from components/CloseButton.vue"
+  },
+  "LazyCloseButton": {
+    "description": "Auto imported from components/CloseButton.vue"
+  },
+  "Components": {
+    "description": "Auto imported from components/index.js"
+  },
+  "LazyComponents": {
+    "description": "Auto imported from components/index.js"
+  },
+  "Json": {
+    "description": "Auto imported from components/Json.vue"
+  },
+  "LazyJson": {
+    "description": "Auto imported from components/Json.vue"
+  },
+  "LoadingPanel": {
+    "description": "Auto imported from components/LoadingPanel.vue"
+  },
+  "LazyLoadingPanel": {
+    "description": "Auto imported from components/LoadingPanel.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "LazyModal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "Breadcrumb": {
+    "description": "Auto imported from components/Breadcrumb/Breadcrumb.vue"
+  },
+  "LazyBreadcrumb": {
+    "description": "Auto imported from components/Breadcrumb/Breadcrumb.vue"
+  },
+  "BreadcrumbItem": {
+    "description": "Auto imported from components/Breadcrumb/BreadcrumbItem.vue"
+  },
+  "LazyBreadcrumbItem": {
+    "description": "Auto imported from components/Breadcrumb/BreadcrumbItem.vue"
+  },
+  "RouteBreadcrumb": {
+    "description": "Auto imported from components/Breadcrumb/RouteBreadcrumb.vue"
+  },
+  "LazyRouteBreadcrumb": {
+    "description": "Auto imported from components/Breadcrumb/RouteBreadcrumb.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/Cards/Card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/Cards/Card.vue"
+  },
+  "BarChart": {
+    "description": "Auto imported from components/Charts/BarChart.js"
+  },
+  "LazyBarChart": {
+    "description": "Auto imported from components/Charts/BarChart.js"
+  },
+  "Config": {
+    "description": "Auto imported from components/Charts/config.js"
+  },
+  "LazyConfig": {
+    "description": "Auto imported from components/Charts/config.js"
+  },
+  "LineChart": {
+    "description": "Auto imported from components/Charts/LineChart.js"
+  },
+  "LazyLineChart": {
+    "description": "Auto imported from components/Charts/LineChart.js"
+  },
+  "Utils": {
+    "description": "Auto imported from components/Charts/utils.js"
+  },
+  "LazyUtils": {
+    "description": "Auto imported from components/Charts/utils.js"
+  },
+  "TaskList": {
+    "description": "Auto imported from components/Dashboard/TaskList.vue"
+  },
+  "LazyTaskList": {
+    "description": "Auto imported from components/Dashboard/TaskList.vue"
+  },
+  "UserTable": {
+    "description": "Auto imported from components/Dashboard/UserTable.vue"
+  },
+  "LazyUserTable": {
+    "description": "Auto imported from components/Dashboard/UserTable.vue"
+  },
+  "BaseCheckbox": {
+    "description": "Auto imported from components/Inputs/BaseCheckbox.vue"
+  },
+  "LazyBaseCheckbox": {
+    "description": "Auto imported from components/Inputs/BaseCheckbox.vue"
+  },
+  "BaseInput": {
+    "description": "Auto imported from components/Inputs/BaseInput.vue"
+  },
+  "LazyBaseInput": {
+    "description": "Auto imported from components/Inputs/BaseInput.vue"
+  },
+  "BaseRadio": {
+    "description": "Auto imported from components/Inputs/BaseRadio.vue"
+  },
+  "LazyBaseRadio": {
+    "description": "Auto imported from components/Inputs/BaseRadio.vue"
+  },
+  "IconCheckbox": {
+    "description": "Auto imported from components/Inputs/IconCheckbox.vue"
+  },
+  "LazyIconCheckbox": {
+    "description": "Auto imported from components/Inputs/IconCheckbox.vue"
+  },
+  "Content": {
+    "description": "Auto imported from components/Layout/Content.vue"
+  },
+  "LazyContent": {
+    "description": "Auto imported from components/Layout/Content.vue"
+  },
+  "ContentFooter": {
+    "description": "Auto imported from components/Layout/ContentFooter.vue"
+  },
+  "LazyContentFooter": {
+    "description": "Auto imported from components/Layout/ContentFooter.vue"
+  },
+  "DashboardLayout": {
+    "description": "Auto imported from components/Layout/DashboardLayout.vue"
+  },
+  "LazyDashboardLayout": {
+    "description": "Auto imported from components/Layout/DashboardLayout.vue"
+  },
+  "DashboardNavbar": {
+    "description": "Auto imported from components/Layout/DashboardNavbar.vue"
+  },
+  "LazyDashboardNavbar": {
+    "description": "Auto imported from components/Layout/DashboardNavbar.vue"
+  },
+  "LoadingMainPanel": {
+    "description": "Auto imported from components/Layout/LoadingMainPanel.vue"
+  },
+  "LazyLoadingMainPanel": {
+    "description": "Auto imported from components/Layout/LoadingMainPanel.vue"
+  },
+  "SidebarSharePlugin": {
+    "description": "Auto imported from components/Layout/SidebarSharePlugin.vue"
+  },
+  "LazySidebarSharePlugin": {
+    "description": "Auto imported from components/Layout/SidebarSharePlugin.vue"
+  },
+  "BaseNav": {
+    "description": "Auto imported from components/Navbar/BaseNav.vue"
+  },
+  "LazyBaseNav": {
+    "description": "Auto imported from components/Navbar/BaseNav.vue"
+  },
+  "NavbarToggleButton": {
+    "description": "Auto imported from components/Navbar/NavbarToggleButton.vue"
+  },
+  "LazyNavbarToggleButton": {
+    "description": "Auto imported from components/Navbar/NavbarToggleButton.vue"
+  },
+  "NotificationPlugin": {
+    "description": "Auto imported from components/NotificationPlugin/index.js"
+  },
+  "LazyNotificationPlugin": {
+    "description": "Auto imported from components/NotificationPlugin/index.js"
+  },
+  "Notification": {
+    "description": "Auto imported from components/NotificationPlugin/Notification.vue"
+  },
+  "LazyNotification": {
+    "description": "Auto imported from components/NotificationPlugin/Notification.vue"
+  },
+  "Notifications": {
+    "description": "Auto imported from components/NotificationPlugin/Notifications.vue"
+  },
+  "LazyNotifications": {
+    "description": "Auto imported from components/NotificationPlugin/Notifications.vue"
+  },
+  "SidebarPlugin": {
+    "description": "Auto imported from components/SidebarPlugin/index.js"
+  },
+  "LazySidebarPlugin": {
+    "description": "Auto imported from components/SidebarPlugin/index.js"
+  },
+  "SideBar": {
+    "description": "Auto imported from components/SidebarPlugin/SideBar.vue"
+  },
+  "LazySideBar": {
+    "description": "Auto imported from components/SidebarPlugin/SideBar.vue"
+  },
+  "SidebarItem": {
+    "description": "Auto imported from components/SidebarPlugin/SidebarItem.vue"
+  },
+  "LazySidebarItem": {
+    "description": "Auto imported from components/SidebarPlugin/SidebarItem.vue"
+  },
+  "EditProfileForm": {
+    "description": "Auto imported from components/UserProfile/EditProfileForm.vue"
+  },
+  "LazyEditProfileForm": {
+    "description": "Auto imported from components/UserProfile/EditProfileForm.vue"
+  },
+  "UserCard": {
+    "description": "Auto imported from components/UserProfile/UserCard.vue"
+  },
+  "LazyUserCard": {
+    "description": "Auto imported from components/UserProfile/UserCard.vue"
+  },
+  "Iotbutton": {
+    "description": "Auto imported from components/Widgets/Iotbutton.vue"
+  },
+  "LazyIotbutton": {
+    "description": "Auto imported from components/Widgets/Iotbutton.vue"
+  },
+  "Iotindicator": {
+    "description": "Auto imported from components/Widgets/Iotindicator.vue"
+  },
+  "LazyIotindicator": {
+    "description": "Auto imported from components/Widgets/Iotindicator.vue"
+  },
+  "Iotswitch": {
+    "description": "Auto imported from components/Widgets/Iotswitch.vue"
+  },
+  "LazyIotswitch": {
+    "description": "Auto imported from components/Widgets/Iotswitch.vue"
+  },
+  "Rtnumberchart": {
+    "description": "Auto imported from components/Widgets/Rtnumberchart.vue"
+  },
+  "LazyRtnumberchart": {
+    "description": "Auto imported from components/Widgets/Rtnumberchart.vue"
+  },
+  "SampleFooter": {
+    "description": "Auto imported from components/Layout/starter/SampleFooter.vue"
+  },
+  "LazySampleFooter": {
+    "description": "Auto imported from components/Layout/starter/SampleFooter.vue"
+  },
+  "SampleNavbar": {
+    "description": "Auto imported from components/Layout/starter/SampleNavbar.vue"
+  },
+  "LazySampleNavbar": {
+    "description": "Auto imported from components/Layout/starter/SampleNavbar.vue"
+  }
+}
